@@ -1,0 +1,3 @@
+[submodule "external/opengm"]
+	path = external/opengm
+	url = https://github.com/opengm/opengm.git
